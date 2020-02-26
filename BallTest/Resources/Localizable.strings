@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  BallTest
+
+  Created by Developer on 9/25/19.
+  Copyright © 2019 AlexanderVetryakov. All rights reserved.
+*/
+
+// Common
+"alert_common_title" = "Warning";
+"alert_button_ok_title" = "OK";
+"alert_button_cancel_title" = "Cancel";
+
+// MainViewController
+"main_title" = "Main";
+"main_question_title" = "Write your question and shake the device to get answer";
+"main_question_placeholder" = "question";
+"main_alert_question_message" = "Enter your question, please";
+"main_alert_answer_message" = "You can add default answers on Settings Screen";
+"main_events_count" = "Shakes count = %@";
+
+// SettingsViewController
+"settings_title" = "Settings";
+"settings_alert_event_message" = "New default answer";
+"settings_alert_message" = "Be sure that you entered correct answer";
+
+// DefaultAnswers
+"first_answer" = "Be happy";
+"second_answer" = "Try again";
+"third_answer" = "Go home";
